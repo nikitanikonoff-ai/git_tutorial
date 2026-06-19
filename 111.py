@@ -1,6 +1,5 @@
 import datetime
 
-print("hello! and hello 111 and gjghjgh")
 print("github")
 print("tutorial")
 
