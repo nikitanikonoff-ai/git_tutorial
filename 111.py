@@ -4,3 +4,5 @@ print("hello " + name, "!")
 print("hello")
 print("111")
 print("gjghjgh")
+
+print("Our project: Git tutorial")
